@@ -1,0 +1,68 @@
+body{
+	background-color:#5b8ccc;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	font-family:nunito;
+	font-weight:200;
+	color:#494f4a;}
+
+.heading{
+	margin-top:0;
+	margin-bottom:20px;
+	marign:0 20px;
+	text-align:center;}
+
+.login_page{
+	background-color:#ffffff;
+	padding:20px;
+	border-radius:20px;
+	border:5px solid red;
+	width:250px;}
+
+.input-group{
+	margin-bottom:20px;}
+
+.input-group input{
+	width:100%;
+	padding:10px 20px;
+	background-color:#ebf0fc;
+	border-radius:20px;
+	border:none;}
+
+.bt-submit{
+	width:100%;
+	padding:10px;
+	border:none;
+	border-radius:20px;
+	color:white;
+	background-color:#007bff;
+	margin-bottom:20px;}
+
+.social-media{
+	display:flex;
+	justify-content:center;
+	margin-top:-15px;
+	padding: 0 70px;
+	justify-content:space-evenly;}
+
+.social-media img{
+	border-radius:50px;
+	width:15px;
+	height:15px;}
+
+.fb-logo{
+	background-color:#007bff;
+	padding:5px;
+	border:2px solid #007bff;}
+
+.google-logo{
+	background-color:#dc3545;
+	padding:5px;
+	border:2px solid #dc3545;}
+
+.twitter-logo{
+	background-color:#17a2b8;
+	padding:5px;
+	border:2px solid #17a2b8;}
+
